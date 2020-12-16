@@ -2,7 +2,7 @@
 //  ghulistiosTests.swift
 //  ghulistiosTests
 //
-//  Created by fârûqî on 16.12.2020.
+//  Created by fârûqî on 13.12.2020.
 //
 
 import XCTest

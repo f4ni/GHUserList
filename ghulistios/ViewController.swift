@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  ghulistios
+//  ghulist
 //
 //  Created by fârûqî on 16.12.2020.
 //
